@@ -6,7 +6,7 @@ fi
 
 rev=$(git rev-parse --short HEAD)
 
-cd public
+cd dist
 
 rm .gitignore
 
